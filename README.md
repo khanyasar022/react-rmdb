@@ -1,5 +1,15 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+
+
+To checkout the live deployment, head over to [this link](https://rmovie.netlify.app/).
+
+
+
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
